@@ -1,0 +1,14 @@
+.env
+
+.dockerigonre
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+ENV/
+
+.vscode/
+.idea/
