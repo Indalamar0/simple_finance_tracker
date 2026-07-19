@@ -1,6 +1,6 @@
 .env
 
-.dockerigonre
+.dockerignore
 
 __pycache__/
 *.pyc
